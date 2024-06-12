@@ -1,2 +1,3 @@
 tamo aqui nessa chimbica né
-tÔ tentando desenvolver algo no Java.
+
+to tentando desenvolver algo no Java.
